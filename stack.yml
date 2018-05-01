@@ -7,3 +7,7 @@ functions:
     lang: go
     handler: ./fn1
     image: alexellis/fn1
+  hipython:
+    lang: python3
+    handler: ./hipython
+    image: hipython
